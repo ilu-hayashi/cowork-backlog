@@ -1,0 +1,22 @@
+{
+  "name": "cowork-backlog",
+  "owner": {
+    "name": "ilu-hayashi"
+  },
+  "metadata": {
+    "description": "Backlog integration for Cowork",
+    "homepage": "https://github.com/ilu-hayashi/cowork-backlog"
+  },
+  "plugins": [
+    {
+      "name": "cowork-backlog",
+      "version": "0.1.0",
+      "source": "./plugin",
+      "description": "Cowork から Backlog の Issue・Wiki を操作するためのプラグイン。",
+      "category": "productivity",
+      "license": "MIT",
+      "tags": ["backlog", "nulab", "issue-tracking", "wiki"],
+      "keywords": ["backlog", "nulab", "cowork", "issue", "wiki"]
+    }
+  ]
+}
