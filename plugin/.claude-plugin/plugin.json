@@ -1,0 +1,12 @@
+{
+  "name": "cowork-backlog",
+  "version": "0.1.0",
+  "description": "Cowork から Backlog の Issue・Wiki を操作するためのプラグイン。Nulab 公式の backlog-mcp-server をバンドル。",
+  "author": {
+    "name": "ilu-hayashi"
+  },
+  "homepage": "https://github.com/ilu-hayashi/cowork-backlog",
+  "repository": "https://github.com/ilu-hayashi/cowork-backlog",
+  "keywords": ["backlog", "nulab", "issue", "wiki", "project-management"],
+  "license": "MIT"
+}
